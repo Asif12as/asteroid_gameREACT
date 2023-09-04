@@ -1,14 +1,14 @@
 
 
-# Asteropid Game
+# Asteroid Game
 
 ![Game Screenshot](screenshot.png)
 
-Asteropid Game is a classic arcade-style game developed using JavaScript, CSS, and HTML with React.js. This project is a fun and challenging game where players control a spaceship to navigate through a field of asteroids while avoiding collisions.
+Asteroid Game is a classic arcade-style game developed using JavaScript, CSS, and HTML with React.js. This project is a fun and challenging game where players control a spaceship to navigate through a field of asteroids while avoiding collisions.
 
 ## Demo
 
-You can play the game live at [Asteropid Game Demo](https://your-demo-link-here.com).
+
 
 ## Features
 
@@ -19,7 +19,7 @@ You can play the game live at [Asteropid Game Demo](https://your-demo-link-here.
 
 ## Installation
 
-To run Asteropid Game locally on your machine, follow these steps:
+To run Asteroid Game locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
