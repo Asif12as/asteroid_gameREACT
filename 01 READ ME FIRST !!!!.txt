@@ -1,0 +1,12 @@
+ASTEROIDS GAME IN REACTJS
+
+
+How to run?
+
+-> npm install  (to install all dependencies)
+-> npm start 
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT mda957947@gmail.com *****  
+
+
